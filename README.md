@@ -4,10 +4,22 @@ Did you know that at least [every fourth American is a person with a disability]
 
 Accessibility of information was one of the foundational values of the Internet. Let's make sure everyone can participate.
 
-## Checklist
+## Read more:
+- [Janet Mendez: Web Accessibility — an introduction for all developers](https://medium.com/@janetmndz/web-accessibility-an-introduction-for-all-developers-c4f632a0506e)
+- [Google's guide to inclusive documentation](https://developers.google.com/style/inclusive-documentation)
+- [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+- [WCAG 2.0 checklist](https://webaim.org/standards/wcag/checklist)
+- [Color contrast explanation](https://a11yproject.com/posts/what-is-color-contrast/)
+- [About :focus](https://a11yproject.com/posts/never-remove-css-outlines/)
+
+## Useful tools
+- [Contrast checker](https://colorable.jxnblk.com/ff0000/fdfdfd)
+- [Contrast generator](https://learnui.design/tools/accessible-color-generator.html)
+- [Deque: accessible CSS library](https://pattern-library.dequelabs.com/)
+
+## Check your web app!
 
 Here is a checklist of what to do when desiging for accessibility:
-
 
 ### Perceivable
 Information and user interface components must be presentable to users in ways they can perceive (it can't be invisible to all of their senses), for instance:
@@ -84,17 +96,15 @@ Content must be robust enough that it can be interpreted reliably by a wide vari
 - Does your page require high-speed internet or a lot of data transfer?
 - Did you test your app on a non-Apple computer?
 
+## Contributing 
+See something, say something! 
+I totally welcome feedback, pull requests, tips and ideas. This is a stub of a bigger project so feel welcome to chip in! My main priorities:
+- index.html does not yet have media queries option! 
+- index.html has not been thoroughly tested on different screen readers;
+- index.js is still empty :D
 
+Don't be scared to contact me, even if you've never submitted a pull request! 
 
-## Read more:
-- [Janet Mendez: Web Accessibility — an introduction for all developers](https://medium.com/@janetmndz/web-accessibility-an-introduction-for-all-developers-c4f632a0506e)
-- [Google's guide to inclusive documentation](https://developers.google.com/style/inclusive-documentation)
-- [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.0 checklist](https://webaim.org/standards/wcag/checklist)
-- [Color contrast explanation](https://a11yproject.com/posts/what-is-color-contrast/)
-- [About :focus](https://a11yproject.com/posts/never-remove-css-outlines/)
-
-## Useful tools
-- [Contrast checker](https://colorable.jxnblk.com/ff0000/fdfdfd)
-- [Contrast generator](https://learnui.design/tools/accessible-color-generator.html)
-- [Deque: accessible CSS library](https://pattern-library.dequelabs.com/)
+Contact me at:
+[@sylwiavargas](https://twitter.com/sylwiavargas)
+or Flatiron's slack! 

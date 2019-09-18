@@ -7,7 +7,7 @@ h1 {
     text-align: center;
     margin-bottom: 5vh;
     font-size: 5vw;
-    /* font-size: 150%; */
+    /* check this instead the previous line: font-size: 150%; */
 }
 
 .intro {
@@ -41,8 +41,8 @@ a:visited{
     display: grid;
     grid-gap: 1vw;
     grid-template-columns: repeat(6, 20vw);
-    /* grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px ; */
     grid-template-rows: 15vh 15vh 15vh 15vh 15vh 15vh 15vh 15vh;
+    /* check this instead the previous line: grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px ; */
     grid-auto-flow: column; 
   }
 
@@ -68,8 +68,8 @@ a:visited{
     text-align: center;
     padding-top: 20%;
     font-weight: bold;
+    /* check this instead the next line: font-size: 150%; */
     font-size: 2vw;
-    /* font-size: 150%; */
   }
 
   /* this is the box in the top left corner of the table */
@@ -80,7 +80,7 @@ a:visited{
 /* this is styling of the small pictures */
     .box .pic {
         height: 7vh;
-        /* height 70px */
+        /* check this instead the previous line: height 70px */
         width: auto;
         border-radius: 5%;
     }
@@ -89,7 +89,7 @@ a:visited{
     .box .pich {
         padding-top: 8%;
         height: 5vh;
-        /* height: 50px; */
+        /* check this instead the previous line: height: 50px; */
         width: auto;
         border-radius: 5%;
     }  

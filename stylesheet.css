@@ -1,5 +1,8 @@
+/* vh means "viewport height", meaning "in reference to your window's height" */
+/* vw means "viewport width", meaning "in reference to your window's width" */
+
 body {
-    margin: 2%;
+    margin: 2vw;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 

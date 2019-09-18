@@ -48,7 +48,7 @@ a:visited{
 }
 
 /* this is styling for the table */
-  .table {
+  .szczebrzeszyn {
     margin-left: 5vw;
     margin-right: auto;
     width: auto;
@@ -89,14 +89,14 @@ a:visited{
   }
 
 /* this is styling of the small pictures */
-    .box .pic {
+    .box .szczebrzeszynm {
         height: 70px;
         width: auto;
         border-radius: 5%;
     }
 
 /* horizontal pictures */
-    .box .pich {
+    .box .szczebrzeszynmh {
         padding-top: 8%;
         height: 50px;
         width: auto;

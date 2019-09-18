@@ -19,6 +19,7 @@
 7. Did you check what happens if we change the size of the window? 
 8. Did you include lang tag in your html?
 9. Why can't we see the box contents?
+10. Are the variables named right?
 
 ## Hints (each point refers to respective task):
 1. in order to enable keyboard navigation, check tabindex value in html and focus in css;

@@ -19,7 +19,7 @@ Accessibility of information was one of the foundational values of the Internet.
 
 ## Check your web app!
 
-Here is a checklist of what to do when desiging for accessibility:
+Here is a checklist of what to do when desiging for accessibility. Check if your app is...
 
 ### Perceivable
 Information and user interface components must be presentable to users in ways they can perceive (it can't be invisible to all of their senses), for instance:
@@ -89,7 +89,7 @@ Content must be robust enough that it can be interpreted reliably by a wide vari
 - Is your app open source? Did you include instructions on contributions?
 - Is your [documentation inclusive](https://developers.google.com/style/inclusive-documentation)?
 
-### Varia
+### Misc
 - Who cannot afford your app? How can you increase their access?
 - Are you using gender-neutral words?
 - Is language you are using albleist or discriminatory in any way?
@@ -98,10 +98,13 @@ Content must be robust enough that it can be interpreted reliably by a wide vari
 
 ## Contributing 
 See something, say something! 
+
 I totally welcome feedback, pull requests, tips and ideas. This is a stub of a bigger project so feel welcome to chip in! My main priorities:
 - index.html does not yet have media queries option! 
 - index.html has not been thoroughly tested on different screen readers;
+- because font sizes are in vw, zoom does not work;
 - index.js is still empty :D
+- let's create nested grid so the data displays more beautifully
 
 Don't be scared to contact me, even if you've never submitted a pull request! 
 

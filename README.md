@@ -5,7 +5,7 @@ Did you know that at least [every fourth American is a person with a disability]
 Accessibility of information was one of the foundational values of the Internet. Let's make sure everyone can participate.
 
 Initially, the lecture/talk took place on Sep 17th.
-Here's the [presentation deck](https://drive.google.com/file/d/18HOVI6x4nfgpCRiNFVppEu4WQpLYzFeE/view?usp=sharing) and [video](https://youtu.be/bZHjalK42b0).
+Here's the [presentation deck](https://drive.google.com/file/d/18HOVI6x4nfgpCRiNFVppEu4WQpLYzFeE/view?usp=sharing) and [video](https://youtu.be/OdYTuDB4s40).
 
 ## Read more:
 - [Janet Mendez: Web Accessibility — an introduction for all developers](https://medium.com/@janetmndz/web-accessibility-an-introduction-for-all-developers-c4f632a0506e)

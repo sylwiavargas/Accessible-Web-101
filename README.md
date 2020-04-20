@@ -22,7 +22,7 @@ Here's the [presentation deck](https://drive.google.com/file/d/18HOVI6x4nfgpCRiN
 
 ## Check your web app!
 
-Here is a checklist of what to do when desiging for accessibility. Check if your app is...
+Here is a checklist of what to do when designing for accessibility. Check if your app is...
 
 ### Perceivable
 Information and user interface components must be presentable to users in ways they can perceive (it can't be invisible to all of their senses), for instance:
